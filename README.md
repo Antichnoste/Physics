@@ -4,8 +4,8 @@
 
 *Студент 2 курса*: 
 
-- **Караганов Павел Эдуардович**; ИСУ 466113; [git](https://github.com/Antichnoste) 
+- **Караганов Павел Эдуардович**; ИСУ 466113; [GIT](https://github.com/Antichnoste) 
 
 *Студент 2 курса*:
 
-- **Рябов Георгий Алексеевич**; ИСУ 424309; [git](https://github.com/spidyboom)
+- **Рябов Георгий Алексеевич**; ИСУ 424309; [GIT](https://github.com/spidyboom)
