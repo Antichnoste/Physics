@@ -49,5 +49,5 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/your-repo/physics-labs.git
+git clone https://github.com/Antichnoste/Physics.git
 ```
